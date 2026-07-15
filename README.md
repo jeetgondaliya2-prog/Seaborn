@@ -22,19 +22,7 @@ Whether you're a beginner in **Data Science**, **Machine Learning**, or **Data A
 
 ---
 
-# 📂 Repository Structure
 
-```
-Seaborn/
-│
-├── Ep-1.ipynb        # Distribution Plots
-├── Ep-2.ipynb        # Categorical Plots
-├── Ep-3.ipynb        # Matrix Plots
-├── Ep-4.ipynb        # Regression Plots
-└── README.md
-```
-
----
 
 # 📚 Topics Covered
 
@@ -137,16 +125,7 @@ jupyter notebook
 
 ---
 
-# 📈 Learning Progress
 
-| Episode | Topic | Status |
-|----------|-------|--------|
-| Ep-1 | Distribution Plots | ✅ |
-| Ep-2 | Categorical Plots | ✅ |
-| Ep-3 | Matrix Plots | ✅ |
-| Ep-4 | Regression Plots | ✅ |
-
----
 
 # ⭐ Future Updates
 
