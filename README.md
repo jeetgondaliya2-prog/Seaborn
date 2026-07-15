@@ -2,9 +2,7 @@
 
 # 📊 Seaborn for Beginners
 
-<img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Library-Seaborn-43B02A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+
 
 ### 🌟 Learn Data Visualization with Seaborn from Scratch
 
