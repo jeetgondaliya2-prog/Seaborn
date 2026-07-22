@@ -1,6 +1,6 @@
  <div align="center">
    
-# 📊 Seaborn for Beginners
+# 📊 Seaborn for Beginners 
 
 
 
